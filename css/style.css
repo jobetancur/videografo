@@ -2356,8 +2356,8 @@ body.dark .grax_tm_settings .cursor li .svg,
 	.grax_tm_hero .name{font-size: 45px;margin-bottom: 5px;}
 	.grax_tm_hero .job{font-size: 17px;}
 	.grax_tm_hero .bg video {
-		width: 100%;
-		height: 100%;
+		/* width: 100%;
+		height: 90vh; */
 		object-fit: cover;
 	}
 	.grax_tm_about .right .list ul{margin: 0px;}
